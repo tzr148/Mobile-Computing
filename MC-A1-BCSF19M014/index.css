@@ -1,0 +1,19 @@
+h1, h2{
+    padding: 2px 2px 2px 2px;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+p{
+    padding-left: 2%;
+}
+
+img {
+    align-items: center;
+    justify-content: center;
+    margin-left: 150px;
+    width:60%;
+}
