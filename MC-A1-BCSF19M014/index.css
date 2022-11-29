@@ -4,23 +4,35 @@
     font-family: "Lucida Sans";
 }
 
-h1, h2{
+h1{
     padding: 2px 2px 2px 2px;
     text-align: center;
 }
 
-h3{
+h2, h3{
+    padding: 2px 2px 2px 2px;
     text-align: center;
+    text-decoration: underline;
 }
 
 p{
     padding-left: 2%;
 }
 
+.ignore{
+    background-color: transparent;
+}
+
+.header{
+    border: 2px solid white;
+    border-radius: 130px;
+    margin: 0px 150px 0px 150px;
+}
+
 img {
     align-items: center;
     justify-content: center;
-    margin-left: 150px;
+    margin-left: 230px;
     width:60%;
     margin-bottom: 15px;
 }
